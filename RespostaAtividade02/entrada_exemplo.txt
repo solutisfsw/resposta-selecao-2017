@@ -1,0 +1,16 @@
+5
+6
+A_2_Deixe as flechas voarem
+A_3_Arqueiros unidos
+A_5_Jamais serao vencidos
+CD_6_Fogo e sangue
+C_1_Honra
+CS_35_Paladinos sao os melhores
+MG_7_Chega de mutantes
+MF_9_Fogooooo
+M_1_Magia arcana rules
+C_3_Sou o mais forte
+M_9_Ahhhhhh mister M
+#
+C_10
+C_11
